@@ -26,3 +26,15 @@
     console.log("Hari belum malam");
   }
 }
+
+// Another test
+{
+  const name = "Dhimas Ferdiansyah";
+  const status = false;
+
+  if (status == true) {
+    console.log(name);
+  } else {
+    console.log("No Name");
+  }
+}
